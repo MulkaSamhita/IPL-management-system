@@ -1,0 +1,252 @@
+
+Apr 09 2016, Sat		MUMBAI INDIANS vs RISING PUNE SUPERGIANT			1st Match
+				Wankhede Stadium, Mumbai
+				8:00 PM LOCAL
+
+Apr 10 2016, Sun		KOLKATA KNIGHT RIDERS vs DELHI CAPITALS				 2nd Match
+				Eden Gardens, Kolkata
+				08:00 PM LOCAL
+
+Apr 11 2016, Mon		KINGS XI PUNJAB vs GUJARAT LIONS			 	3rd Match
+				Punjab Cricket Association IS Bindra Stadium, Mohali
+				08:00 PM LOCAL
+	
+Apr 12 2016, Tue		ROYAL CHALLENGERS BANGALORE vs SUNRISERS HYDERABAD		 4th Match
+				M.Chinnaswamy Stadium, Bengaluru
+				08:00 PM LOCAL
+
+Apr 13 2016, Wed		KOLKATA KNIGHT RIDERS vs MUMBAI INDIANS				 5th Match
+				Eden Gardens, Kolkata
+				08:00 PM LOCAL
+
+Apr 14 2016, Thu		GUJARAT LIONS vs RISING PUNE SUPERGIANT				6th Match
+				Saurashtra Cricket Association Stadium, Rajkot
+				08:00 PM LOCAL
+
+Apr 15 2016, Fri		DELHI CAPITALS vs KINGS XI PUNJAB				 7th Match
+				Feroz Shah Kotla, Delhi
+				08:00 PM LOCAL
+
+Apr 16 2016, Sat		SUNRISERS HYDERABAD vs KOLKATA KNIGHT RIDERS			 8th Match
+				Rajiv Gandhi International Stadium, Hyderabad
+				04:00 PM LOCAL
+ 
+Apr 16 2016, Sat		MUMBAI INDIANS vs GUJARAT LIONS					9th Match
+				Wankhede Stadium, Mumbai
+				08:00 PM LOCAL
+
+Apr 17 2016, Sun		KINGS XI PUNJAB vs RISING PUNE SUPERGIANT			 10th Match
+				Punjab Cricket Association IS Bindra Stadium, Mohali
+				04:00 PM LOCAL
+
+Apr 17 2016, Sun		ROYAL CHALLENGERS BANGALORE vs DELHI CAPITALS			 11th Match
+				M.Chinnaswamy Stadium, Bengaluru
+				08:00 PM LOCAL
+
+Apr 18 2016, Mon		SUNRISERS HYDERABAD vs MUMBAI INDIANS				12th Match
+				Rajiv Gandhi International Stadium, Hyderabad
+				08:00 PM LOCAL
+
+Apr 19 2016, Tue		KINGS XI PUNJAB vs KOLKATA KNIGHT RIDERS,			 13th Match
+				Punjab Cricket Association IS Bindra Stadium, Mohali
+				08:00 PM LOCAL
+
+Apr 20 2016, Wed		MUMBAI INDIANS vs ROYAL CHALLENGERS BANGALORE			14th Match
+				Wankhede Stadium, Mumbai
+				08:00 PM LOCAL
+
+Apr 21 2016, Thu		GUJARAT LIONS vs SUNRISERS HYDERABAD				15th Match
+				Saurashtra Cricket Association Stadium, Rajkot
+				08:00 PM LOCAL
+
+Apr 22 2016, Fri		RISING PUNE SUPERGIANT vs ROYAL CHALLENGERS BANGALORE, 		16th Match
+				Maharashtra Cricket Association Stadium, Pune
+				08:00 PM LOCAL
+
+Apr 23 2016, Sat		DELHI CAPITALS vs MUMBAI INDIANS, 				17th Match
+				Feroz Shah Kotla, Delhi
+				04:00 PM LOCAL
+
+Apr 23 2016, Sat		SUNRISERS HYDERABAD vs KINGS XI PUNJAB, 			18th Match
+				Rajiv Gandhi International Stadium, Hyderabad
+				08:00 PM LOCAL
+
+Apr 24 2016, Sun		GUJARAT LIONS vs ROYAL CHALLENGERS BANGALORE,			 19th Match
+				Saurashtra Cricket Association Stadium, Rajkot
+				04:00 PM LOCAL
+
+Apr 24 2016, Sun		RISING PUNE SUPERGIANT vs KOLKATA KNIGHT RIDERS,		20th Match
+				Maharashtra Cricket Association Stadium, Pune
+				08:00 PM LOCAL
+
+Apr 25 2016, Mon		KINGS XI PUNJAB vs MUMBAI INDIANS,				 21st Match
+				Punjab Cricket Association IS Bindra Stadium, Mohali
+				08:00 PM LOCAL
+
+Apr 26 2016, Tue		SUNRISERS HYDERABAD vs RISING PUNE SUPERGIANT, 			22nd Match
+				Rajiv Gandhi International Stadium, Hyderabad
+				08:00 PM LOCAL
+
+Apr 27 2016, Wed		DELHI CAPITALS vs GUJARAT LIONS,				 23rd Match
+				Feroz Shah Kotla, Delhi
+				08:00 PM LOCAL
+
+Apr 28 2016, Thu		MUMBAI INDIANS vs KOLKATA KNIGHT RIDERS, 			24th Match
+				Wankhede Stadium, Mumbai
+				08:00 PM LOCAL
+
+Apr 29 2016, Fri		RISING PUNE SUPERGIANT vs GUJARAT LIONS, 			25th Match
+				Maharashtra Cricket Association Stadium, Pune
+				08:00 PM LOCAL
+
+Apr 30 2016, Sat		DELHI CAPITALS vs KOLKATA KNIGHT RIDERS, 			26th Match
+				Feroz Shah Kotla, Delhi
+				04:00 PM LOCAL
+
+Apr 30 2016, Sat		SUNRISERS HYDERABAD vs ROYAL CHALLENGERS BANGALORE,		 27th Match
+				Rajiv Gandhi International Stadium, Hyderabad
+				08:00 PM LOCAL
+
+May 01 2016, Sun		GUJARAT LIONS vs KINGS XI PUNJAB,				28th Match
+				Saurashtra Cricket Association Stadium, Rajkot
+				04:00 PM LOCAL
+
+May 01 2016, Sun		RISING PUNE SUPERGIANT vs MUMBAI INDIANS			29th Match
+				Maharashtra Cricket Association Stadium, Pune
+				08:00 PM LOCAL
+
+May 02 2016, Mon		ROYAL CHALLENGERS BANGALORE vs KOLKATA KNIGHT RIDERS,		 30th Match
+				M.Chinnaswamy Stadium, Bengaluru
+				08:00 PM LOCAL
+
+May 03 2016, Tue		GUJARAT LIONS vs DELHI CAPITALS,				 31st Match
+				Saurashtra Cricket Association Stadium, Rajkot
+				08:00 PM LOCAL
+
+May 04 2016, Wed		KOLKATA KNIGHT RIDERS vs KINGS XI PUNJAB, 			32nd Match
+				Eden Gardens, Kolkata
+				08:00 PM LOCAL
+
+May 05 2016, Thu		DELHI CAPITALS vs RISING PUNE SUPERGIANT,			 33rd Match
+				Feroz Shah Kotla, Delhi
+				08:00 PM LOCAL
+
+May 06 2016, Fri		SUNRISERS HYDERABAD vs GUJARAT LIONS, 				34th Match
+				Rajiv Gandhi International Stadium, Hyderabad
+				08:00 PM LOCAL
+
+May 07 2016, Sat		ROYAL CHALLENGERS BANGALORE vs RISING PUNE SUPERGIANT, 		35th Match
+				M.Chinnaswamy Stadium, Bengaluru
+				04:00 PM LOCAL
+
+May 07 2016, Sat		KINGS XI PUNJAB vs DELHI CAPITALS,				 36th Match
+				Punjab Cricket Association IS Bindra Stadium, Mohali
+				08:00 PM LOCAL
+
+May 08 2016, Sun		MUMBAI INDIANS vs SUNRISERS HYDERABAD,				 37th Match
+				Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam
+				04:00 PM LOCAL
+
+May 08 2016, Sun		KOLKATA KNIGHT RIDERS vs GUJARAT LIONS,				 38th Match
+				Eden Gardens, Kolkata
+				08:00 PM LOCAL
+
+May 09 2016, Mon		KINGS XI PUNJAB vs ROYAL CHALLENGERS BANGALORE, 		39th Match
+				Punjab Cricket Association IS Bindra Stadium, Mohali
+				08:00 PM LOCAL
+
+May 10 2016, Tue		RISING PUNE SUPERGIANT vs SUNRISERS 	HYDERABAD		40th Match
+				Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam
+				08:00 PM LOCAL
+
+May 11 2016, Wed		ROYAL CHALLENGERS BANGALORE vs MUMBAI INDIANS, 			41st Match
+				M.Chinnaswamy Stadium, Bengaluru
+				08:00 PM LOCAL
+
+May 12 2016, Thu		SUNRISERS HYDERABAD vs DELHI CAPITALS,				 42nd Match
+				Rajiv Gandhi International Stadium, Hyderabad
+				08:00 PM LOCAL
+
+May 13 2016, Fri		MUMBAI INDIANS vs KINGS XI PUNJAB,				 43rd Match
+				Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam
+				08:00 PM LOCAL
+
+May 14 2016, Sat		ROYAL CHALLENGERS BANGALORE vs GUJARAT LIONS, 			44th Match
+				M.Chinnaswamy Stadium, Bengaluru
+				04:00 PM LOCAL
+
+May 14 2016, Sat		KOLKATA KNIGHT RIDERS vs RISING PUNE SUPERGIANT,		 45th Match
+				Eden Gardens, Kolkata
+				08:00 PM LOCAL
+
+May 15 2016, Sun		KINGS XI PUNJAB vs SUNRISERS HYDERABAD,				 46th Match
+				Punjab Cricket Association IS Bindra Stadium, Mohali
+				04:00 PM LOCAL
+
+May 15 2016, Sun		MUMBAI INDIANS vs DELHI CAPITALS,				 47th Match
+				Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam
+				08:00 PM LOCAL
+
+May 16 2016, Mon		KOLKATA KNIGHT RIDERS vs ROYAL CHALLENGERS BANGALORE, 		48th Match
+				Eden Gardens, Kolkata
+				08:00 PM LOCAL
+
+May 17 2016, Tue		RISING PUNE SUPERGIANT vs DELHI CAPITALS,			 49th Match
+				Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam
+				08:00 PM LOCAL
+
+May 18 2016, Wed		ROYAL CHALLENGERS BANGALORE vs KINGS XI PUNJAB, 		50th Match
+				M.Chinnaswamy Stadium, Bengaluru
+				08:00 PM LOCAL
+
+May 19 2016, Thu		GUJARAT LIONS vs KOLKATA KNIGHT RIDERS,				 51st Match
+				Green Park, Kanpur
+				08:00 PM LOCAL
+
+May 20 2016, Fri		DELHI CAPITALS vs SUNRISERS HYDERABAD,				 52nd Match
+				Shaheed Veer Narayan Singh International Stadium, Raipur
+				08:00 PM LOCAL
+
+May 21 2016, Sat		RISING PUNE SUPERGIANT vs KINGS XI PUNJAB, 			53rd Match
+				Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam
+				04:00 PM LOCAL
+
+May 21 2016, Sat		GUJARAT LIONS vs MUMBAI INDIANS,				 54th Match
+				Green Park, Kanpur
+				08:00 PM LOCAL
+
+May 22 2016, Sun		KOLKATA KNIGHT RIDERS vs SUNRISERS HYDERABAD, 			55th Match
+				Eden Gardens, Kolkata
+				04:00 PM LOCAL
+
+May 22 2016, Sun		DELHI CAPITALS vs ROYAL CHALLENGERS BANGALORE,			 56th Match
+				Shaheed Veer Narayan Singh International Stadium, Raipur
+				08:00 PM LOCAL
+
+
+PLAYOFFS ARE SCHEDULED AS FOLLWS -
+   
+ QUALIFIER-1 : 
+    Table Topper v/s 2nd Position.
+    M.Chinnaswamy Stadium, Bengaluru.
+    Tuesday; 24th May 2019
+    Live coverage starts from 8PM.
+
+ ELIMINATOR : 
+    3rd Position v/s 4th Position.
+    Feroz Shah Kotla, Delhi.
+    Wednesday; 25th May 2019
+    Live coverage starts from 8PM.
+
+ QUALIFIER-2 : 
+    Winner of Eliminator v/s Loosing Team of Qualifier-1.
+    Feroz Shah Kotla, Delhi.
+    Friday, 27th May 2019
+    Live coverage starts from 8PM."<<endl<<endl<<endl;
+ 
+
+ FINAL :: 
+    Winner of Qualifier-1 v/s Winner of Qualifier-2
+    M.Chinnaswamy Stadium, Bengaluru.
+    Sunday, 29th May 2019
+    Live coverage starts from 7PM.

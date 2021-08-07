@@ -1,0 +1,348 @@
+
+SCORECARD_QUALIFIER-01:--
+
+Toss: 		Royal Challengers Bangalore
+Choosed to:	Field First
+
+GUJARAT LIONS INNINGS (RUN RATE: 7.90)
+
+Batsmen								Runs	Balls	SR	4s	6s
+Aaron Finch		c Chris Gayle b Iqbal Abdulla		4	6	66.66	1	0
+Brendon McCullum	c AB de Villiers b Iqbal Abdulla	1	4	25.00	0	0
+Suresh Raina		c Sreenath Arvind b Watson		1	9	11.11	0	0
+Dinesh Karthik		b Chris Jordan				26	30	86.66	2	0
+Dwayne Smith		c Virat Kohli b Yuzvendra Chahal	73	41	178.04	5	6
+Ravindra Jadeja		c Chris Gayle b Shane Watson		3	7	42.85	0	0
+Dwayne Bravo		b Shane Watson				8	6	133.33	1	0
+Eklavya Dwivedi		c Virat Kohli b Shane Watson		19	9	211.11	1	2
+Praveen Kumar		b Chris Jordan				5	3	166.66	1	0
+Dhawal Kulkarni		run out (Sachin Baby)			6	3	200.00	1	0
+Shadab Jakati		NOT OUT					1	2	50.00	0	0
+
+EXTRAS	(nb 0, w 5, b 0, lb 6, pen 0)	11				
+TOTAL	(All out; 20 overs)	158				
+
+Bowler			O	R	W	Econ	Dots
+Sreenath Arvind		3	13	0	4.33	10
+Iqbal Abdulla		4	38	2	9.50	10
+Shane Watson		4	29	4	7.25	13
+Chris Jordan		4	26	2	6.50	9
+Yuzvendra Chahal	4	42	1	10.50	6
+Stuart Binny		1	4	0	4.00	2
+
+FALL OF WICKETS
+1-2 (McCullum, 1.1 ov)
+2-6 (Finch, 1.4 ov)
+3-9 (Raina, 3.4 ov)
+4-94 (Karthik, 13.5 ov)
+5-107 (Jadeja, 15.5 ov)
+6-115 (Smith, 16.3 ov)
+7-145 (Dwivedi , 18.3 ov)
+8-145 (Bravo, 18.4 ov)
+9-156 (Kumar, 19.3 ov)
+10-158 (Kulkarni, 19.6 ov)
+
+
+ROYAL CHALLENGERS BANGALORE INNINGS (RUN RATE: 8.67)
+
+Batsmen							Runs	Balls	SR	4s	6s
+Chris Gayle	b Dhawal Kulkarni			9	12	75.00	2	0
+Virat Kohli	b Dhawal Kulkarni			0	2	0.00	0	0
+AB de Villiers	NOT OUT					79	47	168.08	5	5
+Lokesh Rahul	c Dwayne Smith b Dhawal Kulkarni	0	1	0.00	0	0
+Shane Watson	c Dwayne Smith b Ravindra Jadeja	1	6	16.66	0	0
+Sachin Baby	c Shadab Jakati b Dhawal Kulkarni	0	3	0.00	0	0
+Stuart Binny	lbw Ravindra Jadeja			21	15	140.00	2	1
+Iqbal Abdulla	NOT OUT					33	25	132.00	3	1
+
+EXTRAS	(nb 1, w 8, b 0, lb 7, pen 0)	16				
+TOTAL	(6 wickets; 18.2 overs)	159				
+
+DID NOT BAT:
+Chris Jordan , Sreenath Arvind , Yuzvendra Chahal
+
+Bowler			O	R	W	Econ	Dots
+Praveen Kumar		3.2	32	0	9.60	11
+Dhawal Kulkarni		4	14	4	3.50	14
+Ravindra Jadeja		4	21	2	5.25	9
+Shadab Jakati		3	45	0	15.00	4
+Dwayne Bravo		3	26	0	8.66	5
+Dwayne Smith		1	14	0	14.00	1
+
+FALL OF WICKETS
+1-12 (Kohli, 1.2 ov)
+2-25 (Gayle, 3.2 ov)
+3-25 (Rahul, 3.3 ov)
+4-28 (Watson, 4.5 ov)
+5-29 (Baby, 5.3 ov)
+6-68 (Binny, 9.4 ov)
+
+ROYAL CHALLENGERS BANGALORE WON THE MATCH BY 4 WICKETS
+
+Man of the Match:	AB de Villiers
+Venue: 			M. Chinnaswamy Stadium, Bengaluru
+Umpires:		Kumar Dharmasena, Anil Chaudhary, Bruce Oxenford, A.D. Deshmukh
+Referee:		Ranjan Madugalle
+
+
+
+
+SCORECARD_ELIMINATOR:--
+
+Toss:		Kolkata Knight Riders
+Choosed To: 	Field First
+
+SUNRISERS HYDERABAD INNINGS (RUN RATE: 8.10)
+
+Batsmen								Runs	Balls	SR	4s	6s
+David Warner		b Kuldeep Yadav				28	28	100.00	3	0
+Shikhar Dhawan		b Morne Morkel				10	10	100.00	2	0
+Moises Henriques	c & b Kuldeep Yadav			31	21	147.61	1	2
+Yuvraj Singh		b Jason Holder				44	30	146.66	8	1
+Deepak Hooda		run out (Kuldeep Yadav)			21	13	161.53	0	2
+Ben Cutting		st Robin Uthappa b Kuldeep Yadav	0	1	0.00	0	0
+Naman Ojha		c Robin Uthappa b Jason Holder		7	9	77.77	0	0
+Bhuvneshwar Kumar	c Manish Pandey b Morne Morkel		1	2	50.00	0	0
+Bipul Sharma		NOT OUT					14	6	233.33	0	2
+Barinder Sran		NOT OUT					0	0	0.00	0	0
+
+EXTRAS	(nb 0, w 4, b 1, lb 1, pen 0)	6				
+TOTAL	(8 wickets; 20 overs)	162				
+
+DID NOT BAT:
+Mustafizur Rahman
+
+Bowler			O	R	W	Econ	Dots
+Yusuf Pathan		3	17	0	5.66	6
+Morne Morkel		4	31	2	7.75	12
+Sunil Narine		4	35	0	8.75	11
+Jason Holder		4	33	2	8.25	7
+Kuldeep Yadav		4	35	3	8.75	10
+Rajagopal Sathish	1	9	0	9.00	1
+
+FALL OF WICKETS
+1-12 (Dhawan, 1.6 ov)
+2-71 (Henriques, 9.4 ov)
+3-71 (Warner, 9.5 ov)
+4-120 (Hooda, 15.5 ov)
+5-124 (Cutting, 16.1 ov)
+6-145 (Singh, 18.3 ov)
+7-147 (Ojha, 18.5 ov)
+8-161 (Kumar, 19.5 ov)
+
+
+KOLKATA KNIGHT RIDERS INNINGS (RUN RATE: 7.00)
+
+Batsmen									Runs	Balls	SR	4s	6s
+Robin Uthappa		c Moises Henriques b Barinder Sran		11	7	157.14	1	0
+Gautam Gambhir		c sub (Vijay Shankar) b Ben Cutting		28	28	100.00	2	1
+Colin Munro		run out (Yuvraj Singh)				16	17	94.11	1	0
+Manish Pandey		c Deepak Hooda b Bhuvneshwar Kumar		36	28	128.57	2	1
+Yusuf Pathan		c Bhuvneshwar Kumar b Moises Henriques		2	6	33.33	0	0
+Suryakumar Yadav	c Shikhar Dhawan b Moises Henriques		23	15	153.33	1	1
+Rajagopal Sathish	b Bhuvneshwar Kumar				8	9	88.88	0	0
+Jason Holder		c Ben Cutting b Bhuvneshwar Kumar		6	7	85.71	1	0
+Sunil Narine		NOT OUT						1	3	33.33	0	0
+Morne Morkel		NOT OUT						0	0	0.00	0	0
+
+EXTRAS	(nb 0, w 0, b 0, lb 9, pen 0)	9				
+TOTAL	(8 wickets; 20 overs)	140				
+
+DID NOT BAT:
+Kuldeep Yadav
+
+Bowler			O	R	W	Econ	Dots
+Bhuvneshwar Kumar	4	19	3	4.75	11
+Barinder Sran		3	29	1	9.66	6
+Deepak Hooda		1	8	0	8.00	3
+Mustafizur Rahman	4	28	0	7.00	9
+Moises Henriques	3	17	2	5.66	5
+Ben Cutting		3	14	1	4.66	7
+Bipul Sharma		2	16	0	8.00	2
+
+FALL OF WICKETS
+1-15 (Uthappa, 1.5 ov)
+2-53 (Munro, 6.6 ov)
+3-63 (Gambhir, 9.1 ov)
+4-69 (Pathan, 10.5 ov)
+5-115 (Yadav, 15.5 ov)
+6-125 (Pandey, 17.2 ov)
+7-139 (Sathish, 19.2 ov)
+8-140 (Holder, 19.5 ov)
+
+SUNRISERS HYDERABAD WON THE MATCH BY 22 RUNS
+
+Man of the Match: 	Moises Henriques
+Venue: 			Feroz Shah Kotla Ground, Delhi
+Umpires: 		Marais Erasmus, C Shamshuddin, O Nandan, Navdeep Singh Sidhu
+Referee: 		Roshan Mahanama
+
+
+
+SCORECARD_QUALIFIER-02:--
+
+Toss: 		Sunrisers Hyderabad
+Choosed to: 	Field First
+
+GUJARAT LIONS INNINGS (RUN RATE: 8.10)
+
+Batsmen								Runs	Balls	SR	4s	6s
+Eklavya Dwivedi		c Trent Boult b Bhuvneshwar Kumar	5	5	100.00	1	0
+Brendon McCullum	c Bhuvneshwar Kumar b Bipul Sharma	32	29	110.34	5	0
+Suresh Raina		lbw Trent Boult				1	5	20.00	0	0
+Dinesh Karthik		run out (Trent Boult)			26	19	136.84	4	1
+Aaron Finch		b Ben Cutting				50	32	156.25	7	2
+Dwayne Smith		c Shikhar Dhawan b Ben Cutting		1	3	33.33	0	0
+Ravindra Jadeja		NOT OUT					19	15	126.66	1	0
+Dwayne Bravo		b Bhuvneshwar Kumar			20	10	200.00	4	0
+Dhawal Kulkarni		NOT OUT					3	2	150.00	0	0
+
+EXTRAS	(nb 0, w 5, b 0, lb 0, pen 0)	5				
+TOTAL	(7 wickets; 20 overs)	162				
+
+DID NOT BAT:
+Praveen Kumar , Shivil Kaushik
+
+Bowler			O	R	W	Econ	Dots
+Bhuvneshwar Kumar	4	27	2	6.75	9
+Trent Boult		4	39	1	9.75	11
+Barinder Sran		3	28	0	9.33	8
+Bipul Sharma		3	21	1	7.00	8
+Ben Cutting		3	20	2	6.66	7
+Moises Henriques	3	27	0	9.00	6
+
+FALL OF WICKETS
+1-7 (Dwivedi , 0.6 ov)
+2-19 (Raina, 3.2 ov)
+3-63 (Karthik, 8.5 ov)
+4-81 (McCullum, 11.6 ov)
+5-83 (Smith, 12.4 ov)
+6-134 (Finch, 17.3 ov)
+7-158 (Bravo, 19.3 ov)
+
+
+SUNRISERS HYDERABAD INNINGS (RUN RATE: 8.43)
+
+Batsmen								Runs	Balls	SR	4s	6s
+David Warner		NOT OUT					93	58	160.34	11	3
+Shikhar Dhawan		run out (Brendon McCullum)		0	4	0.00	0	0
+Moises Henriques	c Eklavya Dwivedi b Dwayne Smith	11	6	183.33	2	0
+Yuvraj Singh		c Dwayne Smith b Shivil Kaushik		8	13	61.53	1	0
+Deepak Hooda		lbw Dwayne Bravo			4	9	44.44	0	0
+Ben Cutting		c Dinesh Karthik b Shivil Kaushik	8	7	114.28	1	0
+Naman Ojha		c Ravindra Jadeja b Dwayne Bravo	10	8	125.00	0	1
+Bipul Sharma		NOT OUT					27	11	245.45	0	3
+
+EXTRAS	(nb 0, w 1, b 0, lb 1, pen 0)	2				
+TOTAL	(6 wickets; 19.2 overs)	163				
+
+DID NOT BAT:
+Bhuvneshwar Kumar , Barinder Sran , Trent Boult
+
+Bowler			O	R	W	Econ	Dots
+Praveen Kumar		3.2	32	0	9.60	8
+Dhawal Kulkarni		4	32	0	8.00	8
+Dwayne Smith		2	29	1	14.50	2
+Suresh Raina		2	15	0	7.50	5
+Shivil Kaushik		4	22	2	5.50	11
+Dwayne Bravo		4	32	2	8.00	9
+
+FALL OF WICKETS
+1-6 (Dhawan, 1.1 ov)
+2-33 (Henriques, 4.1 ov)
+3-61 (Singh, 8.2 ov)
+4-75 (Hooda, 11.1 ov)
+5-84 (Cutting, 12.3 ov)
+6-117 (Ojha, 15.5 ov)
+
+Venue:		Feroz Shah Kotla Ground, Delhi
+Umpires:       	Marais Erasmus, O Nandan, C Shamshuddin, Navdeep Singh Sidhu
+Referee:	Roshan Mahanama
+
+
+
+
+SCORECARD_FINAL:----
+
+Toss:	 	Sunrisers Hyderabad
+Choosed To:	Bat First
+
+SUNRISERS HYDERABAD INNINGS (RUN RATE: 10.40)
+
+Batsmen								Runs	Balls	SR	4s	6s
+David Warner		c Iqbal Abdulla b Sreenath Arvind	69	38	181.57	8	3
+Shikhar Dhawan		c Chris Jordan b Yuzvendra Chahal	28	25	112.00	3	1
+Moises Henriques	c Yuzvendra Chahal b Chris Jordan	4	5	80.00	0	0
+Yuvraj Singh		c Shane Watson b Chris Jordan		38	23	165.21	4	2
+Deepak Hooda		c Virat Kohli b Sreenath Arvind		3	6	50.00	0	0
+Ben Cutting		NOT OUT					39	15	260.00	3	4
+Naman Ojha		run out (Shane Watson)			7	4	175.00	1	0
+Bipul Sharma		c Yuzvendra Chahal b Chris Jordan	5	3	166.66	1	0
+Bhuvneshwar Kumar	NOT OUT					1	1	100.00	0	0
+
+EXTRAS	(nb 0, w 11, b 1, lb 2, pen 0)	14				
+TOTAL	(7 wickets; 20 overs)	208				
+
+DID NOT BAT:
+Barinder Sran , Mustafizur Rahman
+
+Bowler			O	R	W	Econ	Dots
+Sreenath Arvind		4	30	2	7.50	9
+Chris Gayle		3	24	0	8.00	8
+Shane Watson		4	61	0	15.25	7
+Yuzvendra Chahal	4	35	1	8.75	5
+Iqbal Abdulla		1	10	0	10.00	1
+Chris Jordan		4	45	3	11.25	9
+
+FALL OF WICKETS
+1-63 (Dhawan, 6.4 ov)
+2-97 (Henriques, 9.5 ov)
+3-125 (Warner, 13.3 ov)
+4-147 (Hooda, 15.6 ov)
+5-148 (Singh, 16.1 ov)
+6-158 (Ojha, 17.1 ov)
+7-174 (Sharma, 18.4 ov)
+
+
+ROYAL CHALLENGERS BANGALORE INNINGS (RUN RATE: 10.00)
+
+Batsmen							Runs	Balls	SR	4s	6s
+Chris Gayle	c Bipul Sharma b Ben Cutting		76	38	200.00	4	8
+Virat Kohli	b Barinder Sran				54	35	154.28	5	2
+AB de Villiers	c Moises Henriques b Bipul Sharma	5	6	83.33	0	0
+Lokesh Rahul	b Ben Cutting				11	9	122.22	1	0
+Shane Watson	c Moises Henriques b Mustafizur		11	9	122.22	0	1
+Sachin Baby	run out (Deepak Hooda)			18	10	180.00	1	1
+Stuart Binny	NOT OUT					9	7	128.57	0	1
+Chris Jordan	run out (Naman Ojha)			3	4	75.00	0	0
+Iqbal Abdulla	NOT OUT					4	2	200.00	1	0
+
+EXTRAS	(nb 0, w 4, b 0, lb 5, pen 0)	9				
+TOTAL	(7 wickets; 20 overs)	200				
+
+DID NOT BAT:
+Yuzvendra Chahal , Sreenath Arvind
+
+Bowler			O	R	W	Econ	Dots
+Bhuvneshwar Kumar	4	25	0	6.25	13
+Barinder Sran		3	41	1	13.66	6
+Ben Cutting		4	35	2	8.75	7
+Mustafizur Rahman	4	37	1	9.25	9
+Moises Henriques	3	40	0	13.33	5
+Bipul Sharma		2	17	1	8.50	1
+
+FALL OF WICKETS
+1-114 (Gayle, 10.3 ov)
+2-140 (Kohli, 12.5 ov)
+3-148 (de Villiers, 13.5 ov)
+4-160 (Rahul, 15.3 ov)
+5-164 (Watson, 16.3 ov)
+6-180 (Baby, 18.1 ov)
+7-194 (Jordan, 19.3 ov)
+
+SUNRISERS HYDERABAD INNINGS WON THE MATCH BY 8 RUNS
+
+Man of the Match: 	Ben Cutting
+Venue:			M. Chinnaswamy Stadium, Bengaluru
+Umpires:		Bruce Oxenford, Kumar Dharmasena, Anil Chaudhary, A.D. Deshmukh
+Referee:		Ranjan Madugalle

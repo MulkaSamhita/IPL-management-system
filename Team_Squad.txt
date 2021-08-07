@@ -1,0 +1,233 @@
+Royal Challengers Bangalore
+
+Sr.No.	Name				Specialization			Jersey No.	Overall-Performance
+
+1.	Virat Kohli(c)			Batsman				18		Excellent
+2.	AB de Villiers*			Batsman				17		Excellent
+3.	Chris Gayle*			Batsman				999		Excellent
+4.	Travis Head*			Batting-Allrounder		4		Good
+5.	Kedar Jadhav			Batting-Allrounder		7		V.Good
+6.	Sarfaraz Khan			WK-Batsman			2		Average
+7.	Mandeep Singh			Batsman				3		V.Good
+8.	Lokesh Rahul			WK-Batsman			1		Excellent
+9.	Harshal Patel			Bowling-Allrounder		5		Poor
+10.	Kane Richardson*		Fast-Bowler			6		Good
+11.	Shane Watson*			Batting-Allrounder		33		Excellent
+12.	Samuel Badre*			Spin-Bowler			8		Average
+13.	Yuzvendra Chahal		Spin-Bowler			9		Excellent
+14.	Sreenath Aravind		Fast-Bowler			10		Good
+15.	Stuart Binny			Bowling-Allrounder		11		Average
+16.	Praveen Dubey			Spin-Bowler			12		-
+17.	Abu Nechim			Bowling-Allrounder		13		Poor
+18.	Sachin Baby			Batsman				14		Poor
+19.	Vikas Tokas			Fast-Bowler			15		-
+20.	David Wiese*			Batting-Allrounder		16		V.Good
+21.	Varun Aaron			Fast-Bowler			19		Good
+22.	Iqbal Abdulla			Bowling-Allrounder		20		poor
+23.	Akshay Karnewar			Bowling-Allrounder		21		-
+24.	Vikramjeet Singh Malik		Fast-Bowler			22		Poor
+25.	Adam Milne*			Fast-Bowler			23		V.Good
+
+
+Rising Pune Supergiants
+
+Sr.No.	Name				Specialization			Jersey No.	Overall-Performance
+
+1.	MS Dhoni(c)			WK-Batsman			7		Excellent
+2.	Ajinkya Rahane			Batsman				27		Excellent
+3.	Ravichandran Ashwin		Bowling-Allrounder		99		Excellent
+4.	Rajat Bhatia			Bowling-Allrounder		1		Good
+5.	Deepak Chahar			Bowling-Allrounder		2		V.Good
+6.	Faf du Plessis			Batsman				3		V.Good
+7.	Jaskaran Singh			Spin-Bowler			4		Poor
+8.	Irfan Pathan			Bowling-Allrounder		5		V.Good
+9.	Kevin Pietersen			Batsman				6		V.Good
+10.	Ishant Sharma			Fast-Bowler			8		V.Good
+11.	Steven Smith			Batsman				9		V.Good
+12.	Adam Zampa			Spin-Bowler			10		Good
+13.	Ankit Sharma			Fast-Bowler			11		Poor
+14.	Murugan Ashwin			Spin-Bowler			12		Good
+15.	Ankush Bains			WK-Batsman			13		-
+16.	Scott Boland			Fast-Bowler			14		Poor
+17.	Ashok Dinda			Fast-Bowler			15		Poor
+18.	Peter Handscomb			WK-Batsman			16		-
+19.	Mitchell Marsh			Batting-Allrounder		17		V.Good
+20.	Ishwar Pandey			Fast-Bowler			18		-
+21.	Thisara Perera			Bowling-Allrounder		19		Good
+22.	Baba Aprajith			WK-Batsman			20		-
+23.	RP Singh			Fast-Bowler			21		-
+
+
+Gujrat Lions
+
+Sr.No.	Name				Specialization			Jersey No.	Overall-Performance
+
+1.	Suresh Raina(c)			Batsman				3		Excellent
+2.	Akshdeep Nath			Batting-Allrounder		1		Poor
+3.	Dwayne Bravo			Bowling-Allrounder		2		Excellent
+4.	Eklavya Dwivedi			WK-Batsman			4		Good
+5.	Aaron Finch			Batsman				10		V.Good
+6.	Ravindra Jadeja			Bowling-Allrounder     		8		Excellent
+7.	Dinesh Karthik			WK-Batsman			21		Excellent
+8.	Dhawal Kulkarni			Fast-Bowler			15		Excellent
+9.	Brendon McCullum		WK-Batsman			22		Excellent
+10.	Jaydev Shah			Batsman				5		-
+11.	Dwayne Smith			Batsman				6		Good
+12.	Pravin Tambe			Spin-Bowler			55		Poor
+13.	Sarabjit Ladda			Batsman				17		-
+14.	Amit Mishra			Spin-Bowler			19		Good
+15.	Paras Dogra			Batsman				9		-
+16.	James Faulkner			Bowling-Allrounder		11		Good
+17.	Ishan Kishan			WK-Batsman			7		Good
+18.	Shadab Jakati			Bowling-Allrounder		23		Good
+19.	Shivil Koushik			Spin-Bowler			12		Good
+20.	Praveen Kumar			Fast-Bowler			13		Poor
+21.	Pradeep Sangwan			Fast-Bowler			14		-
+22.	Dale Steyn			Fast-Bowler			32		-
+23.	Andrew Tye			Bowling-Allrounder		68		Excellent
+
+
+Delhi Daredevils
+
+Sr.No.	Name				Specialization			Jersey No.	Overall-Performance
+
+1.	Zaheer Khan(c)			Fast-Bowler			17		V.Good
+2.	K Khaleel Ahmed			Fast-Bowler			11		-
+3.	Carlos Brathwaite		Bowling-Allrounder		13		V.Good
+4.	Quinton de Kock			WK-Batsman			7		V.Good
+5.	Akhil Herwadkar			Batsman				8		-
+6.	Shreyas Iyer			Batsman				21		Excellent
+7.	Chama V Milind			Fast-Bolwer			22		-
+8.	Mohammed Shami			Fast-Bowler			19		V.Good
+9.	Shahbaz Nadeem			Spin-Bolwer			20		V.Good
+10.	Pawan Negi			Bowling-Allrounder		18		Good
+11.	Joel Paris			Fast-Bowler			1		-
+12.	Sanju Samson			WK-Batsman			5		Excellent
+13.	Jayant Yadav			Bowling-Allrounder		2		V.Good
+14.	Mayank Agarwal			Batsman				12		V.Good
+15.	Sam Billings			Batsman				14		Good
+16.	Nathan Coulter-Nile		Bowling-Allrounder		3		Good
+17.	Jean-Paul Duminy		Bowling-Allrounder		4		Good
+18.	Imran Tahir			Spin-Bowler			99		Good
+19.	Mahipal Lomror			Batting-Allrounder		6		-
+20.	Chris Morris			Bowling-Allrounder		9		V.Good
+21.	Karun Nair			Batsman				31		Excellent
+22.	Rishabh Pant			WK-Batsman			32		Excellent
+23.	Pratyush Singh			Spin-Bowler			45		-
+24.	Pawan Suyal			Fast-Bowler			27		-
+
+
+Mumbai Indians
+
+Sr.No.	Name				Specialization			Jersey No.	Overall-Performance
+
+1.	Rohit Sharma(c)			Batsman				45		Excellent
+2.	Jasprit Bumrah			Fast-Bowler			93		Excellent
+3.	Unmukt Chand			Batsman				11		V.Good
+4.	Shreyas Gopal			Batting-Allrounder		10		Good
+5.	Kishore Kamat			Spin Bowler			2		-
+6.	Mitchell McClenaghan		Fast-Bowler			97		V.Good
+7.	Hardik Pandya			Batting-Allrounder		228		Excellent
+8.	Parthiv Patel			WK-Batsman			19		V.Good
+9.	Deepak Punia			Spin Bowler			18		-
+10.	Ambati Rayudu			Batsman				17		V.Good
+11.	Lendl Simmons			Batsman				16		V.Good
+12.	Tim Southee			Fast-Bowler			15		V.Good
+13.	Vinay Kumar			Fast-Bowler			64		V.Good
+14.	Corey Anderson			Batting-Allrounder		29		V.Good
+15.	Jos Buttler			WK-Batsman			13		Excellent
+16.	Marchant de Lange		Fast-Bowler			32		-
+17.	Harbhajan Singh			Spin Bowler			25		Excellent
+18.	Siddhesh Lad			WK-Batsman			2		Good
+19.	Lasith Malinga			Fast-Bowler			1		Excellent
+20.	Krunal Pandya			Batting-Allrounder		24		Excellent
+21.	Kieron Pollard			Batsman				9		V.Good
+22.	Nitish Rana			Batsman				8		V.Good
+23.	Jitesh Sharma			Batsman				6		-
+24.	Nathu Singh			Fast-Bowler			7		Good
+25.	Jagadeesha Suchith		Spin Bowler			4		-
+26.	Akshay Wakhare			Spin Bowler			3		-
+
+
+Kolkata Knight Riders
+
+Sr.No.	Name				Specialization			Jersey No.	Overall-Performance
+
+1.	Gautam Gambhir			Batsman				33		Excellent 
+2.	John Hastings 			Batting Allrounder		20 		-
+3.	Jason Holder			Batting Allrounder 		19		Good
+4.	Kuldeep Yadav			Spin Bowler			17		Excellent
+5.	Manan Sharma			Batting Allrounder		6		-
+6.	Colin Munro			Batting Allrounder 		5		Good
+7.	Manish Pandey 			Batsman				49		Excellent
+8.	Ankit Rajpoot 			Fast Bowler			10		V.Good
+9.	Rajagopal Sathish 		Batsman				11		-
+10.	Jaydev Unadkat 			Fast Bowler			18		Excellent
+11.	Suryakumar Yadav 		Batsman 			222		V.Good
+12.	Piyush Chawla 			Bowling Allrounder 		9		V.Good
+13.	Brad Hogg 			SpinBowler			8		Good
+14.	Sheldon Jackson 		Batsman 			3		V.Good
+15.	Chris Lynn 			Batsman 			4		Good
+16.	Morne Morkel 			Fast Bowler			2		Good
+17.	Sunil Narine 			Spin Bowler 			1		Excellent
+18.	Yusuf Pathan 			Batting Allrounder		42		V.Good
+19.	Andre Russell 			Batting Allrounder 		31		Excellent
+20.	Shakib Al Hasan 		Bowling Allrounder		29		Excellent
+21.	Robin Uthappa 			WK-Batsman			41		Excellent
+22.	Umesh Yadav 			Fast Bowler			12		V.Good
+
+
+Kings XI Punjab
+
+Sr.No.	Name				Specialization			Jersey No.	Overall-Performance
+
+1.	David Miller			Batsman				21		Excellent
+2.	Anureet Singh			Fast Bowler			11		Good
+3.	Farhaan Behardien		Batsman				01		-
+4.	Rishi Dhawan			Bowling Allrounder		3		Good		
+5.	Mitchell Johnson		Fast Bowler			2		V.Good
+6.	Glenn Maxwell			Batting Allrounder		19		Excellent
+7.	Axar Patel			Bowling Allrounder		12		Excellent
+8.	Mohit Sharma			Fast Bowler			91		V.Good
+9.	Pardeep Sahu			Bowling Allrounder		14		-
+10.	Swapnil Singh			Batting Allrounder		15		-
+11.	Murali Vijay			Batsman				35		V.Good
+12.	Kyle Abbott			Fast Bowler			51		Good
+13.	Armaan Jaffer			Batsman				41		-
+14.	KC Cariappa			Spin Bowler			53		V.Good
+15.	Gurkeerat Singh Mann		Batsman				5		Good
+16.	Shaun Marsh			Batsman				7		Good
+17.	Nikhil Naik			Batsman				8		-
+18.	Wriddhiman Saha			WK-Batsman			22		V.Good
+19.	Sandeep Sharma			Fast Bowler			18		V.Good
+20.	Marcus Stoinis			Batting Allrounder		81		Good
+21.	Shardul Thakur			Fast Bowler			99		Good
+22.	Manan Vohra			Batsman				6		V.Good
+
+
+Sunrisers Hyderabad
+
+Sr.No.	Name				Specialization			Jersey No.	Overall-Performance	
+
+1.	Shikhar Dhawan(c)		Batsman				25		Excellent
+2.	Ricky Bhui			Bowling-Allrounder		1		Good
+3.	Trent Boult			Fast-Bowler			18		Excellent
+4.	Moises Henriques		Bowling-Allrounder		2		V.Good
+5.	Abhimanyu Mithun		Batsman				3		Good
+6.	Siddarth Kaul			Fast-Bowler			4		V.Good
+7.	Mustafizur Rahman		Fast-Bowler			5		Excellent
+8.	Naman Ojha			WK-Batsman			6		Good
+9.	Karn Sharma			Spin-Bowler			7		V.Good
+10.	Tirumalsetti Suman		Batsman				8		-
+11.	David Warner			Batsman				31		Excellent
+12.	Yuvraj Singh			Bowling-Allrounder		12		Excellent
+13.	Ashish Nehra			Fast-Bowler			64		V.Good
+14.	Ashish Reddy			Spin-Bowler			9		-
+15.	Bipul Sharma			Spin-Bowler			10		V.Good
+16.	Ben Cutting			Fast-Bowler			11		Good
+17.	Bhuvneshwar Kumar		Bowling-Allrounder		15		Excellent
+18.	Eoin Morgan			Batsman				16		Excellent
+19.	Vijay Shankar			Bowling-Allrounder		59		Excellent
+20.	Barinder Sran			Fast-Bowler			13		Good
+21.	Aditya Tare			WK-Batsman			14		V.Good
+22.	Kane Williamson			Batsman				22		Excellent

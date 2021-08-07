@@ -1,0 +1,18 @@
+WICKETS ZONE:-
+
+Total Wickets- 665
+Avg runs/wkt- 28.36
+Balls/wkt- 20
+Wkts for pace- 400
+Wkts for spin- 191
+
+Mode of Dismissal
+
+caught-400
+lbw- 41
+stumped- 22
+bowled- 111
+runout- 74
+c & b- 14
+Total Dismissals-662
+

@@ -1,0 +1,112 @@
+MOST_RUNS:-
+
+POS	PLAYER		CURRENT TEAM			INN	RUNS	AVG	SR	4s	6s
+
+1.	Virat Kohli	Royal Challengers Bangalore	16	973	81.08	152.03	83	38
+2.	David Warner	Sunrisers Hyderabad		17	848	60.57	151.43	88	31
+3.	AB de Villiers	Royal Challengers Bangalore	16	687	52.85	168.80	57	37
+4.	Shikhar Dhawan	Sunrisers Hyderabad		17	501	38.54	116.78	51	8
+5.	Gautam Gambhir	Kolkata Knight Riders		15	501	38.54	121.90	54	6
+6.	Rohit Sharma	Mumbai Indians			14	489	44.45	132.88	49	16
+7.	Ajinkya Rahane	Rising Pune Supergiant		14	480	43.64	126.65	54	9
+8.	Murali Vijay	Kings XI Punjab			14	453	34.85	124.45	50	10
+9.	Quinton de Kock	Delhi Daredevials		13	445	37.08	136.09	52	13
+10.	Suresh Raina	Gujrat Lions			15	399	28.50	127.88	39	10
+
+
+MOST_HUNDREDS:-
+
+POS	PLAYER		CURRENT TEAM			MATCHES	INNS	100s	RUNS	H.S
+
+1.	Virat Kohli	Royal Challengers Bangalore	16	16	4	973	113
+2.	AB de Villiers	Royal Challengers Bangalore	16	16	1	687	129
+3.	Quinton de Kock	Delhi Daredevials		13	13	1	445	108
+4.	Steven Smith	Rising Pune Supergiant		8	7	1	270	101
+
+
+MOST_FIFTIES:-
+
+POS	PLAYER		CURRENT TEAM			MATCHES	INNS	50s	90s	RUNS	H.S
+1.	David Warner	Sunrisers Hyderabad		17	17	9	3	848	93
+2.	Virat Kohli	Royal Challengers Bangalore	16	16	7	-	973	113
+3.	AB de Villiers	Royal Challengers Bangalore	16	16	6	-	687	129
+4.	Ajinkya Rahane	Rising Pune Supergiant		14	14	6	-	480	74
+5.	Gautam Gambhir	Kolkata Knight Riders		15	15	5	1	501	90
+6.	Rohit Sharma	Mumbai Indians			14	14	5	-	489	85
+7.	Murali Vijay	Kings XI Punjab			14	14	5	-	453	89
+8.	Aaron Finch	Kings XI Punjab			13	12	5	-	393	74
+9.	Shikhar Dhawan	Sunrisers Hyderabad		17	17	4	-	501	82
+10.	Lokesh Rahul	Royal Challengers Bangalore	14	12	4	-	397	68
+
+
+MOST_SIXES:-
+
+POS	PLAYER			CURRENT TEAM			MATCHES	INNS	RUNS	SIXES
+1.	Virat Kohli		Royal Challengers Bangalore	16	16	973	38
+2.	AB de Villiers		Royal Challengers Bangalore	16	16	687	37
+3.	David Warner		Sunrisers Hyderabad		17	17	848	31
+4.	Chris Gayle		Royal Challengers Bangalore	10	10	227	21
+5.	Rohit Sharma		Mumbai Indians			14	14	489	16
+6.	Lokesh Rahul		Royal Challengers Bangalore	14	12	397	16
+7.	Brendon McCullum	Royal Challengers Bangalore	16	16	354	16
+8.	Dwayne Smith		Gujarat Lions			12	12	324	16
+9.	Kieron Pollard		Mumbai Indians			13	12	207	16
+10.	Andre Russell		Kolkata Knight Riders		12	8	188	15
+
+
+MOST_FOURS:-
+
+POS	PLAYER		CURRENT TEAM			MATCHES	INNS	RUNS	FOURS
+1.	David Warner	Sunrisers Hyderabad		17	17	848	88
+2.	Virat Kohli	Royal Challengers Bangalore	16	16	973	83
+3.	AB de Villiers	Royal Challengers Bangalore	16	16	687	57
+4.	Gautam Gambhir	Kolkata Knight Riders		15	15	501	54
+5.	Ajinkya Rahane	Rising Pune Supergiant		14	14	480	54
+6.	Quinton de Kock	Delhi Daredevials		13	13	445	52
+7.	Shikhar Dhawan	Sunrisers Hyderabad		17	17	501	51
+8.	Murali Vijay	Kings XI Punjab			14	14	453	50
+9.	Rohit Sharma	Mumbai Indians			14	14	489	49
+10.	Robin Uthappa	Kolkata Knight Riders		15	15	394	45
+
+
+HIGHEST_INDVIDUAL_SCORE:-
+
+POS	PLAYER		CURRENT TEAM			RUNS	BALLS	4s	6s	SR	VS
+1	AB de Villiers	Royal Challengers Bangalore	129	52	10	12	248.08	Gujarat Lions
+2	Virat Kohli	Royal Challengers Bangalore	113	50	12	8	226.00	Kings XI Punjab
+3	Virat Kohli	Royal Challengers Bangalore	109	55	5	8	198.18	Gujarat Lions
+4	Quinton de Kock	Delhi Daredevials		108	51	15	3	211.76	Royal Challengers Bangalore
+5	Virat Kohli	Royal Challengers Bangalore	108	58	8	7	186.21	Rising Pune Supergiant
+6	Steven Smith	Rising Pune Supergiant		101	54	8	5	187.04	Gujarat Lions
+7	Virat Kohli	Royal Challengers Bangalore	100	63	11	1	158.73	Gujarat Lions
+8	Hashim Amla	Kings XI Punjab			96	56	14	2	171.43	Sunrisers Hyderabad
+9	David Warner	Sunrisers Hyderabad		93	58	11	3	160.34	Gujarat Lions
+10	David Warner	Sunrisers Hyderabad		92	50	9	5	184.00	Royal Challengers Bangalore
+
+
+BEST_STRIKE_RATE:-
+
+POS	PLAYER			CURRENT TEAM			MATCHES	INN	RUNS	AVG	SR
+1	Carlos Brathwaite	Kolkata Knight Riders		8	6	83	13.83	218.42
+2	Sarfaraz Khan		Royal Challengers Bangalore	5	4	66	33.00	212.90
+3	Bipul Sharma		Sunrisers Hyderabad		7	4	51	25.50	204.00
+4	Ben Cutting		Mumbai Indians			4	4	65	32.50	191.18
+5	Krunal Pandya		Mumbai Indians			12	9	237	39.50	191.13
+6	Chris Morris		Delhi Daredevils		12	7	195	65.00	178.90
+7	AB de Villiers		Royal Challengers Bangalore	16	16	687	52.85	168.80
+8	Andre Russell		Kolkata Knight Riders		12	8	188	26.86	164.91
+9	Stuart Binny		Rising Pune Supergiant		14	6	63	15.75	161.54
+10	Thisara Perera		Rising Pune Supergiant		12	10	150	21.43	161.29
+
+
+MOST_DUCKS
+
+POS	Player			Team				Mat	Inns	Ducks	
+1.	SS Iyer			Delhi Daredevils		6	6	3	
+2.	GJ Maxwell		Kings XI Punjab			11	11	3	
+3.	AR Patel		Kings XI Punjab			14	10	2	
+4.	AJ Finch		Gujarat Lions			13	12	2	
+5.	AM Rahane		Rising Pune Supergiants		14	14	2
+
+
+	
